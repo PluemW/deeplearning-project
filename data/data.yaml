@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Cabbage-yolov8-object-detection/data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['cabbage']
